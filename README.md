@@ -1,1 +1,1 @@
-# Program sederhana untuk pembelajaran git
+# Projek sederhana untuk latihan push git
