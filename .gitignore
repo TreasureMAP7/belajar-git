@@ -1,4 +1,9 @@
+# Mengabaikan folder
 clone_project_git/
 
+# Mengabaikan satu file
 log.txt
 index.ts
+
+# Menambahkan semua file dengan ektstensi .py
+*.py
