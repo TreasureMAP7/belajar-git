@@ -1,3 +1,8 @@
 h1 {
-    color: brown
+  color: brown;
+}
+
+body {
+  background-color: pink;
+  font-family: "Courier New", monospace;
 }
